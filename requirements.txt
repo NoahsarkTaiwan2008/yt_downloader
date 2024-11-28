@@ -1,8 +1,7 @@
 altgraph==0.17.4
 lief==0.15.1
-ordered-set==4.1.0
 packaging==24.2
-pefile==2023.2.7
+pefile==2024.8.26
 pyinstaller==6.11.1
 pyinstaller-hooks-contrib==2024.10
 PyQt5==5.15.11
@@ -11,6 +10,5 @@ PyQt5_sip==12.15.0
 pytube==15.0.0
 pywin32-ctypes==0.2.3
 setuptools==75.6.0
-youtube-dl==2021.12.17
 yt-dlp==2024.11.18
 zstandard==0.23.0
